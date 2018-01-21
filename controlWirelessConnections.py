@@ -1,11 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #
-# controlWiFiButton.py python module
+# controlWirelessConnections.py python module
 # python script to control the wireless connections (WiFi/Bluetooth)
 #  on the push of a button
 #
-# Author: Solveigh
 #
 # required: sudo apt-get install python-dev python-rpi.gpio
 #
